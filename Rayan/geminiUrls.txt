@@ -1,0 +1,9 @@
+gemini.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDrVbStgP15pWUl9wvw-mKMpcKZmnsafRg
+
+prompt résumer :
+Je vais te donner un texte, il faudra que tu le résume directement donc sans dire d'autre dans la langue dont le code 639-1 est %0 que tu vas le resumer et il faut que ca fasse plus de %1 -5 mots et moins de %1 mots exactement. Je veux qu'il n'y ai dans la réponse que le résumé.
+
+Voici le texte à résumer :
+
+prompt mot-clé :
+donne moi %1 mot clé dans la langue dont le code 639-1 est %0 lier au texte suivant dans le format suivant MOTCLE1 MOTCLE2 MOTCLE3 MOTCLE4 MOTCLE5 sans rien ajouter d'autre. Il ne faut pas que tu ecrive "MOTCLE" avant juste que tu le mette et il faut que tu les sépare par une nouvelle ligne. Voici le texte :
